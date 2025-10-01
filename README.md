@@ -47,8 +47,8 @@ A modern, responsive travel platform built with React.js that provides real-time
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/travel-agency-platform.git
-   cd travel-agency-platform
+   git clone https://github.com/ShaktiCodes/Travel.git
+   cd Travel
    ```
 
 2. **Install dependencies**
@@ -154,6 +154,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ### ⭐ Star this repo if you found it helpful!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ShaktiCodes/travel-agency-platform&type=Date)](https://star-history.com/#your-username/travel-agency-platform)
+[![Star History Chart](https://api.star-history.com/svg?repos=ShaktiCodes/Travel&type=Date)](https://star-history.com/#your-username/travel-agency-platform)
 
 </div>

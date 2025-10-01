@@ -25,7 +25,7 @@ A modern, responsive travel platform built with React.js that provides real-time
 
 ## 🚀 Live Demo
 
-[![Vercel Deployment](https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen)](https://your-travel-platform.vercel.app)
+[![Vercel Deployment](https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen)](https://travel-shakti-singhs-projects-f27f9ba7.vercel.app)
 
 ## 🛠️ Tech Stack
 
